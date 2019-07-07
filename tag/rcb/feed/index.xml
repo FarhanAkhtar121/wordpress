@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>RCB &#8211; ipl2019</title>
+	<atom:link href="https://farhanakhtar121.github.io/wordpress/tag/rcb/feed/" rel="self" type="application/rss+xml" />
+	<link>https://farhanakhtar121.github.io/wordpress</link>
+	<description>All about Indian Premier League</description>
+	<lastBuildDate>
+	Mon, 25 Mar 2019 14:31:47 +0000	</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.1.1</generator>
+
+<image>
+	<url>https://farhanakhtar121.github.io/wordpress/wp-content/uploads/2019/01/Capture_5b10fa0b90d98-150x150.jpg</url>
+	<title>RCB &#8211; ipl2019</title>
+	<link>https://farhanakhtar121.github.io/wordpress</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>RCB Squad: Royal Challenger Bangaluru</title>
+		<link>https://farhanakhtar121.github.io/wordpress/2019/01/31/dont-call-demi-lovato-a-bad-girl-shes-just-speaking-out/</link>
+				<comments>https://farhanakhtar121.github.io/wordpress/2019/01/31/dont-call-demi-lovato-a-bad-girl-shes-just-speaking-out/#respond</comments>
+				<pubDate>Thu, 31 Jan 2019 13:07:47 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Squad List]]></category>
+		<category><![CDATA[RCB]]></category>
+		<category><![CDATA[Squad list]]></category>
+
+		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine/?p=125</guid>
+				<description><![CDATA[Curabitur aliquet quam id dui posuere blandit. Donec rutrum congue leo eget malesuada. Vivamus suscipit tortor eget felis porttitor volutpat. Sed porttitor lectus nibh. ]]></description>
+								<content:encoded><![CDATA[<p><strong>RCB squad:</strong> Virat Kohli, AB de Villiers, Parthiv Patel, Yuzvendra Chahal, Tim Southee, Umesh Yadav, Navdeep Saini, Kulwant Khejroliya, Washington Sundar, Pawan Negi, Nathan Coulter-Nile, Moeen Ali, Mohammed Siraj, Colin de Grandhomme, Shimron Hetmyer, Devdutt Padikkal, Shivam Dube, Heinrich Klassen, Gurkeerat Singh, Himmat Singh, Prayas Ray Barman</p>
+<p><strong>Released players:</strong> Quinton de Kock, Mandeep Singh, Chris Woakes, Sarfraz Khan, Brendon McCullum, Corey Anderson</p>
+<p><strong>Traded:</strong> Mandeep Singh for Marcus Stoinis</p>
+]]></content:encoded>
+							<wfw:commentRss>https://farhanakhtar121.github.io/wordpress/2019/01/31/dont-call-demi-lovato-a-bad-girl-shes-just-speaking-out/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+	</channel>
+</rss>

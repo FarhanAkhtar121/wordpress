@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>MI &#8211; ipl2019</title>
+	<atom:link href="https://farhanakhtar121.github.io/wordpress/tag/mi/feed/" rel="self" type="application/rss+xml" />
+	<link>https://farhanakhtar121.github.io/wordpress</link>
+	<description>All about Indian Premier League</description>
+	<lastBuildDate>
+	Mon, 25 Mar 2019 14:31:47 +0000	</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.1.1</generator>
+
+<image>
+	<url>https://farhanakhtar121.github.io/wordpress/wp-content/uploads/2019/01/Capture_5b10fa0b90d98-150x150.jpg</url>
+	<title>MI &#8211; ipl2019</title>
+	<link>https://farhanakhtar121.github.io/wordpress</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>MI Squad: Mumbai Indians</title>
+		<link>https://farhanakhtar121.github.io/wordpress/2019/01/31/mi-squad-mumbai-indians/</link>
+				<comments>https://farhanakhtar121.github.io/wordpress/2019/01/31/mi-squad-mumbai-indians/#respond</comments>
+				<pubDate>Thu, 31 Jan 2019 11:34:08 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Squad List]]></category>
+		<category><![CDATA[MI]]></category>
+		<category><![CDATA[Squad list]]></category>
+
+		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine/?p=88</guid>
+				<description><![CDATA[Retained: Rohit Sharma (C), Hardik Pandya, Jasprit Bumrah, Krunal Pandya, Ishan Kishan, Suryakumar Yadav, Mayank]]></description>
+								<content:encoded><![CDATA[
+<p></p>
+
+
+<p><b><span style="font-size: large;">Retained:</span></b><span style="display: inline !important; float: none; background-color: transparent; color: #000000; font-family: 'Roboto',sans-serif; font-size: 18px; font-size-adjust: none; font-stretch: 100%; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; line-height: 30px; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;"> Rohit Sharma (C), Hardik Pandya, Jasprit Bumrah, Krunal Pandya, Ishan Kishan, Suryakumar Yadav, Mayank Markande, Rahul Chahar, Anukul Roy, Siddhesh Lad, Aditya Tare, Quinton de Kock, Evin Lewis, Kieron Pollard, Ben Cutting, Mitchell McClenaghan, Adam Milne, Jason Behrendorff</span></p>
+<p> </p>
+<p><strong>Released:</strong> Saurabh Tiwary, Pradeep Sangwan, Mohsin Khan, MD Nidheesh, Sharad Lumba, Tajinder Singh Dhillon, JP Duminy, Pat Cummins, Mustafizur Rahman, Akila Dananjaya</p>
+<p><strong>Traded:</strong> Quinton de Kock from RCB</p>
+<p><strong>Players Bought:</strong></p>
+<p>Lasith Malinga – Rs 2 crore</p>
+<p>Anmolpreet Singh – Rs 80 lakh</p>
+<p>Barinder Sran – Rs 3.40 crore</p>
+<p>Pankaj Jaiswal – Rs 20 lakh</p>
+<p>Rasikh Salam – Rs 20 lakh</p>
+<p><span style="display: inline !important; float: none; background-color: transparent; color: #000000; font-family: 'Roboto',sans-serif; font-size: 18px; font-size-adjust: none; font-stretch: 100%; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; line-height: 30px; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;">Yuvraj Singh – Rs 1 crore</span></p>
+<p> </p>
+<p> </p>]]></content:encoded>
+							<wfw:commentRss>https://farhanakhtar121.github.io/wordpress/2019/01/31/mi-squad-mumbai-indians/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+	</channel>
+</rss>

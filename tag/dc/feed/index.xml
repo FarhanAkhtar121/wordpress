@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>DC &#8211; ipl2019</title>
+	<atom:link href="https://farhanakhtar121.github.io/wordpress/tag/dc/feed/" rel="self" type="application/rss+xml" />
+	<link>https://farhanakhtar121.github.io/wordpress</link>
+	<description>All about Indian Premier League</description>
+	<lastBuildDate>
+	Mon, 25 Mar 2019 14:31:47 +0000	</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.1.1</generator>
+
+<image>
+	<url>https://farhanakhtar121.github.io/wordpress/wp-content/uploads/2019/01/Capture_5b10fa0b90d98-150x150.jpg</url>
+	<title>DC &#8211; ipl2019</title>
+	<link>https://farhanakhtar121.github.io/wordpress</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>DC Squad: Delhi Capital</title>
+		<link>https://farhanakhtar121.github.io/wordpress/2019/02/01/dc-squad-delhi-capital/</link>
+				<comments>https://farhanakhtar121.github.io/wordpress/2019/02/01/dc-squad-delhi-capital/#respond</comments>
+				<pubDate>Fri, 01 Feb 2019 13:06:53 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Squad List]]></category>
+		<category><![CDATA[DC]]></category>
+		<category><![CDATA[Squad list]]></category>
+
+		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine/?p=118</guid>
+				<description><![CDATA[Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Quisque velit nisi, pretium ut lacinia in, elementum id enim. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar. ]]></description>
+								<content:encoded><![CDATA[
+<p><strong>Players Retained:</strong> Shreyas Iyer, Rishabh Pant, Prithvi Shaw, Amit Mishra, Avesh Khan, Harshal Patel, Rahul Tewatia, Jayant Yadav, Manjot Kalra, Colin Munro, Chris Morris, Kagiso Rabada, Sandeep Lamichhane, Trent Boult</p>
+
+
+
+<p><strong>Traded:</strong> Shikhar Dhawan from Sunrisers Hyderabad for Abhishek Sharma, Vijay Shankar, Shahbaz Nadeem</p>
+
+
+
+<p><strong>Players Bought:</strong></p>
+
+
+
+<p>Hanuma Vihari – Rs 2 crore</p>
+
+
+
+<p>Axar Patel – Rs 5 crore</p>
+
+
+
+<p>Ishant Sharma – Rs 1.10 crore</p>
+
+
+
+<p>Ankush Bains – Rs 20 lakh</p>
+
+
+
+<p>Nathu Singh – Rs 20 lakh</p>
+
+
+
+<p>Colin Ingram – Rs 6.40 crore</p>
+
+
+
+<p>Sherfane Rutherford – Rs 2 crore</p>
+
+
+
+<p>Keemo Paul – Rs 50 lakh</p>
+
+
+
+<p>Jalaj Saxena – Rs 20 lakh</p>
+
+
+
+<p>Bandaru Ayyappa – Rs 20 lakh</p>
+]]></content:encoded>
+							<wfw:commentRss>https://farhanakhtar121.github.io/wordpress/2019/02/01/dc-squad-delhi-capital/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+	</channel>
+</rss>

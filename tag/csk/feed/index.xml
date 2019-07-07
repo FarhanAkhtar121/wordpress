@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>CSK &#8211; ipl2019</title>
+	<atom:link href="https://farhanakhtar121.github.io/wordpress/tag/csk/feed/" rel="self" type="application/rss+xml" />
+	<link>https://farhanakhtar121.github.io/wordpress</link>
+	<description>All about Indian Premier League</description>
+	<lastBuildDate>
+	Mon, 25 Mar 2019 14:31:47 +0000	</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.1.1</generator>
+
+<image>
+	<url>https://farhanakhtar121.github.io/wordpress/wp-content/uploads/2019/01/Capture_5b10fa0b90d98-150x150.jpg</url>
+	<title>CSK &#8211; ipl2019</title>
+	<link>https://farhanakhtar121.github.io/wordpress</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>CSK: Chennai Super King Squad</title>
+		<link>https://farhanakhtar121.github.io/wordpress/2019/01/31/this-new-aerie-collection-was-designed-by-aly-raisman-and-iskra-lawrence/</link>
+				<comments>https://farhanakhtar121.github.io/wordpress/2019/01/31/this-new-aerie-collection-was-designed-by-aly-raisman-and-iskra-lawrence/#respond</comments>
+				<pubDate>Thu, 31 Jan 2019 13:10:50 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Squad List]]></category>
+		<category><![CDATA[CSK]]></category>
+		<category><![CDATA[Squad list]]></category>
+
+		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine/?p=127</guid>
+				<description><![CDATA[Quisque velit nisi, pretium ut lacinia in, elementum id enim. Cras ultricies ligula sed magna dictum porta. ]]></description>
+								<content:encoded><![CDATA[<div class="m-advert m-advert--border-top m-advert@medium+--border-bottom m-advert--small" data-behavior="advert">
+<div class="m-advert__inner"><strong>Retained players:</strong> MS Dhoni, Suresh Raina, Deepak Chahar, KM Asif, Karn Sharma, Dhruv Shorey, Faf du Plessis, M Vijay, Ravindra Jadeja, Sam Billings, Mitchell Santner, David Willey, Dwayne Bravo, Shane Watson, Lungi Ngidi, Imran Tahir, Kedar Jadhav, Ambati Rayudu, Harbhajan Singh, N Jagadeesan, Shardul Thakur, Monu Kumar, Chaitanya Bishnoi,</div>
+</div>
+<p><strong>Released players:</strong> Mark Wood, Kanishk Seth, Kshitiz Sharma</p>
+<p><strong>Players added:</strong></p>
+<p>Mohit Sharma – Rs 5 crore</p>
+<p>Ruturaj Gaikwad – Rs 20 lakh</p>
+]]></content:encoded>
+							<wfw:commentRss>https://farhanakhtar121.github.io/wordpress/2019/01/31/this-new-aerie-collection-was-designed-by-aly-raisman-and-iskra-lawrence/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+	</channel>
+</rss>

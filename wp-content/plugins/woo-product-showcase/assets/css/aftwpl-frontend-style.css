@@ -1,0 +1,178 @@
+.aftwpl-product-list{
+    margin-bottom: 15px;
+}
+
+.aftwpl_product_list .aftwpl-product-list li{
+    margin: 0;
+    overflow: hidden;
+}
+
+.aftwpl_product_express_list .aftwpl-product-list li,
+.aftwpl_product_express_list .aftwpl-product-catgory,
+.aftwpl_product_grid li,
+.aftwpl_product_list li{
+    margin: 0;
+}
+
+.aftwpl_product_express_list .aftwpl-product-catgory,
+.aftwpl_product_grid li,
+.aftwpl_product_list li{
+    /*min-width: 250px;*/
+}
+
+.aftwpl_product_express_list .aftwpl-product-list li{
+    min-width: 125px;
+}
+
+.aftwpl-product-list li .aftwpl-product-list-thumb {
+    position: relative;
+}
+.aftwpl-product-list img{
+    width: 100%;
+}
+.aftwpl-product-list li .aftwpl-product-list-thumb span.onsale {
+    position: absolute;
+    top: 0;
+    left: 0;
+    border: none;
+    border-radius: 0;
+    background-color: #e43f0b;
+    color: #ffffff;
+    padding: 10px 15px;
+    font-size: .875em;
+    line-height: 1;
+    min-height: 12px;
+    text-transform: uppercase;
+    font-weight: 600;
+    display: inline-block;
+    margin-bottom: 1em;
+}
+
+.aftwpl-product-list-thumb, .aftwpl-product-list-desc{
+    color: #607d8b;
+    display: block;
+}
+
+.aftwpl-product-list-desc{
+    margin: 10px 0 20px 0;
+}
+
+.woocommerce .aftwpl-product-list-desc .star-rating::before,
+.woocommerce .aftwpl-product-list-desc .star-rating span::before{
+    left: 0;
+    right: 0;
+    width: 100%;
+}
+
+.aftwpl-product-list-left, .aftwpl-product-list-right{
+
+    padding-left: 0;
+}
+
+.woocommerce .aftwpl-product-list-add-to-cart  a.button{
+    color: #7d7d7d;
+    background: #e8e8e8;
+    padding: 9px 18px;
+    border: none;
+    border-radius: 0;
+}
+
+.woocommerce .aftwpl-product-list-add-to-cart a.button:hover{
+    background-color: #3e3e3e;
+    color: #ffffff;
+}
+
+.aftwpl-product-list-title, 
+.aftwpl-product-list-add-to-cart, 
+.aftwpl-product-list-desc .star-rating{
+    display: block;
+    width: 100%;
+}
+
+.aftwpl-product-list-add-to-cart, 
+.aftwpl-product-list-desc .star-rating{
+    margin: 10px 0 5px 0;
+}
+
+.aftwpl-product-list-desc .star-rating {
+    margin: 0 auto .5407911001em;
+}
+
+.aftwpl-product-list-title h2{
+    font-size: 18px;
+    padding: 0;
+    margin: 0px 0 10px 0;
+}
+
+.aftwpl-category-desc .aftwpl-category-title{
+    font-size: 24px;
+    padding: 0;
+    margin: 10px 0 10px 0;
+}
+
+/*Grid Specific*/
+.aftwpl_product_grid .aftwpl-product-list-left,
+.aftwpl_product_grid .aftwpl-product-list-right{
+    display: block;
+}
+#secondary .aftwpl_product_express_list .aftwpl-product-catgory{
+    min-width: 100%;
+}
+#secondary .aftwpl_product_express_list .aftwpl-product-list li,
+#secondary .aftwpl-product-list .aftwpl_product_grid_widget li,
+#secondary .aftwpl-product-list .aftwpl_product_list_widget li{
+    width: 100%;
+}
+
+/*--------------------------------------------------------------
+##new plugin page
+--------------------------------------------------------------*/
+ul.aftwpl_product_grid_widget ,ul.aftwpl_product_express_grid_widget{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+.product-wrap-pl {
+    margin-bottom: 20px;
+}
+
+.aftwpl_product_list .product-wrap-pl {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    -ms-flex-align: center !important;
+    align-items: center !important;
+}
+.widget.aftwpl_product_list ul li {
+     padding-bottom: 0px !important; 
+}
+@media only screen and (max-width: 1025px) {
+    .aftwpl_product_list li.col-sm-6{width: 100%}
+}
+@media only screen and (max-width: 426px) {
+    .aftwpl-product-list-left, .aftwpl-product-list-right{width: 100%;}
+    .aftwpl-product-list-left, .aftwpl-product-list-right {padding-right: 0;}
+}
+/*--------------------------------------------------------------
+##new plugin page
+--------------------------------------------------------------*/
+@media only screen and (max-width: 767px){
+    .aftwpl_product_express_list .aftwpl-product-catgory, 
+    .aftwpl_product_grid li, 
+    .aftwpl_product_list li{
+        min-width: inherit;
+    }
+    #secondary .aftwpl_product_express_list .aftwpl-product-list li{
+        width: 50%
+    }
+}
+@media only screen and (min-width: 768px) and (max-width: 1023px){
+    .aftwpl_product_express_list .aftwpl-product-catgory,
+    .aftwpl_product_grid li,
+    .aftwpl_product_list li{
+        min-width: 240px;
+    }
+
+}
+

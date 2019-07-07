@@ -1,0 +1,212 @@
+
+---Downloaded files---
+The import files for: Magazine 7 were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://localhost/wordpress
+Data file = D:\xampp\htdocs\wordpress/wp-content/themes/magazine-7/demo-content/default/magazine-7.xml
+Widget file = D:\xampp\htdocs\wordpress/wp-content/themes/magazine-7/demo-content/default/magazine-7.wie
+Customizer file = D:\xampp\htdocs\wordpress/wp-content/themes/magazine-7/demo-content/default/magazine-7.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import pa_color Gray
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import pa_size Large
+[WARNING] Failed to import pa_size Medium
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import pa_size Small
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import pa_color Yellow
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import product_cat Decor
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import product_cat Tshirts
+[WARNING] Failed to import product_cat Accessories
+
+
+------
+New AJAX call!
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import pa_color Gray
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import pa_size Large
+[WARNING] Failed to import pa_size Medium
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import pa_size Small
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import pa_color Yellow
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import product_cat Decor
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import product_cat Tshirts
+[WARNING] Failed to import product_cat Accessories
+
+
+------
+New AJAX call!
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import pa_color Gray
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import pa_size Large
+[WARNING] Failed to import pa_size Medium
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import pa_size Small
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import pa_color Yellow
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import product_cat Decor
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import product_cat Tshirts
+[WARNING] Failed to import product_cat Accessories
+
+
+------
+New AJAX call!
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import pa_color Gray
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import pa_size Large
+[WARNING] Failed to import pa_size Medium
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import pa_size Small
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import pa_color Yellow
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import product_cat Decor
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import product_cat Tshirts
+[WARNING] Failed to import product_cat Accessories
+
+
+------
+New AJAX call!
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import pa_color Gray
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import pa_size Large
+[WARNING] Failed to import pa_size Medium
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import pa_size Small
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import pa_color Yellow
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import product_cat Decor
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import product_cat Tshirts
+[WARNING] Failed to import product_cat Accessories
+
+
+---Importing widgets---
+Main Sidebar : 
+
+Categories - No Title - Widget already exists
+Tag Cloud - No Title - Imported
+woocommerce_product_categories - Product categories - Site does not support widget
+
+Off-canvas Panel : 
+
+Categories - No Title - Imported
+
+Front-page Content Section : 
+
+M7 Posts - Double Column  - No Title - Imported
+M7 Posts - Single Column  - No Title - Imported
+M7 Posts Carousel - No Title - Imported
+magazine_7_products_list - No Title - Site does not support widget
+
+Front-page Sidebar Section : 
+
+M7 Author Info - No Title - Imported
+M7 Social Contacts - No Title - Imported
+M7 Tabbed Posts - No Title - Imported
+
+Footer Second Section : 
+
+Recent Posts - No Title - Imported
+
+Footer Third Section : 
+
+Search - No Title - Imported
+Tag Cloud - No Title - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+
